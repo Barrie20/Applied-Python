@@ -1,3 +1,0 @@
-project 1: Automatic Translator
-project 2: Manage data files
-This is useful
